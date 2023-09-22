@@ -1,5 +1,4 @@
 
-@@ -1,32 +0,0 @@
 {
     "name": "Mention Bot",
     "description": "Simple telegram bot for news in Telethon.",
@@ -32,6 +31,5 @@
             "url": "heroku/python"
         } ]
 }
-0 comments on commit a927cdb
-@Samdaveloper
+
  
